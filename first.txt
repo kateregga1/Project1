@@ -1,0 +1,9 @@
+git commands
+
+git init //Initialize git, creates /.git hidden file in the folder
+
+git add <filename> 
+
+git commit
+
+34877773.932
